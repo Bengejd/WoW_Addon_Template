@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: WoW_Addon_Template
+## Author: Neekio
+## Version: 1.0.0
+## Notes: DESCRIPTION GOES HERE
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+WoW_Addon_Template.lua
